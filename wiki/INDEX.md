@@ -27,7 +27,7 @@ One page per idea. Every other path with the same name is a stub that points her
 | [analysis/INDEX.md](analysis/INDEX.md) | analysis | 0 | 2 |
 | [analysis/_part-template.md](analysis/_part-template.md) | analysis | 0 | 0 |
 | [analysis/_selected-template.md](analysis/_selected-template.md) | analysis | 0 | 0 |
-| [analysis/_template.md](analysis/_template.md) | analysis | 0 | 2 |
+| [analysis/_template.md](analysis/_template.md) | analysis | 0 | 0 |
 | [doctrine/amateur-constraints.md](doctrine/amateur-constraints.md) | doctrine | 3 | 3 |
 | [doctrine/futsal/principles-that-travel.md](doctrine/futsal/principles-that-travel.md) | doctrine | 5 | 4 |
 | [doctrine/rest-defence.md](doctrine/rest-defence.md) | doctrine | 10 | 4 |
@@ -63,8 +63,8 @@ One page per idea. Every other path with the same name is a stub that points her
 | [pro/_template.md](pro/_template.md) | pro | 0 | 0 |
 | [pro/goalkeepers/neuer-2014-algeria.md](pro/goalkeepers/neuer-2014-algeria.md) | pro | 2 | 2 |
 | [pro/set-pieces/arsenal-jover-near-post.md](pro/set-pieces/arsenal-jover-near-post.md) | pro | 1 | 3 |
-| [team/GAPS.md](team/GAPS.md) | team | 8 | 9 |
-| [team/KEEPER.md](team/KEEPER.md) | team | 7 | 4 |
+| [team/GAPS.md](team/GAPS.md) | team | 7 | 9 |
+| [team/KEEPER.md](team/KEEPER.md) | team | 6 | 4 |
 | [team/LEARNINGS.md](team/LEARNINGS.md) | team | 2 | 2 |
 | [team/PLAYERS.md](team/PLAYERS.md) | team | 1 | 3 |
 | [team/STRENGTHS.md](team/STRENGTHS.md) | team | 5 | 3 |

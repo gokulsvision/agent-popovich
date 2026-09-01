@@ -46,3 +46,10 @@ Read before selecting. If it appears on this tape, it is the first clip.
 A thing that shows up in two or more parts is how a pattern becomes a GAP.
 
 - 
+
+## Links out
+
+- [[<match-slug>]] — the match page
+- add the doctrine slug for every selected moment
+
+## Linked from

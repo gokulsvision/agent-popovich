@@ -123,6 +123,10 @@ def links(docs, resolve):
     broken = defaultdict(set)
     referenced = set()
     for rel, txt in docs.items():
+        # Templates carry placeholders like [[<match-slug>]]. They are skeletons,
+        # not nodes, so they neither resolve nor contribute to the graph.
+        if is_template(rel):
+            continue
         body = prose(txt)
         # Only count links ABOVE the generated backlink block, so backlinks
         # never feed themselves.

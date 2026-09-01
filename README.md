@@ -2,7 +2,7 @@
 
 This is the coach a rec team could not hire. It is not a finished product.
 
-One Hermes agent. Three jobs. A double-linked wiki it reads and writes. Futsal is the game. Soccer is the season. The load signal is NOOP, not official WHOOP. Paste a day's rollup. Do not open the app. Match video never enters git.
+One Hermes agent. Three jobs. A linked wiki it reads and writes. Futsal is the game. Soccer is the season. Recovery is pasted, never scraped from an API. Match video never enters git.
 
 Not affiliated with Gregg Popovich, the San Antonio Spurs, or the NBA.
 
@@ -66,6 +66,14 @@ After a match, AirDrop or Files the tape into `media/matches/`. Name it `YYYY-MM
 ## Capture
 
 Bird's-eye. High, looking down, both boxes and both touchlines in frame. iPhone, landscape, locked AE/AF, 1080p 30fps, same spot every week. Chest-high sideline tripod is not this. Take-space notes from that angle will be wrong.
+
+## Recovery data
+
+`wiki/noop/logs/` holds pasted daily numbers. NOOP is just the app this fork happens to read from; nothing in the pipeline depends on it. Any source works — a WHOOP or Garmin export, an Oura screenshot, or how you actually feel written in a sentence.
+
+The only thing the trainer needs is recovery, strain, sleep and hours to the next match. The single interpretation table is `wiki/trainer/PROTOCOL.md`, and it converts that into dose, never into a diagnosis.
+
+`workflows/trainer-week.md` refuses if the newest log is over 36 hours old. That is deliberate. A week written on last Saturday's recovery is worse than no week.
 
 ## Public vs local
 

@@ -72,3 +72,10 @@ Three lines maximum. This is what the merge stage reads. It will not reread the 
 1.
 2.
 3.
+
+## Links out
+
+- [[<match-slug>]] — the match page this part belongs to
+- add the doctrine slug for every moment coached above
+
+## Linked from
