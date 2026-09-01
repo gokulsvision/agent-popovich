@@ -25,6 +25,8 @@ One page per idea. Every other path with the same name is a stub that points her
 | Page | Type | Inbound | Outbound |
 |---|---|---|---|
 | [analysis/INDEX.md](analysis/INDEX.md) | analysis | 0 | 2 |
+| [analysis/_part-template.md](analysis/_part-template.md) | analysis | 0 | 0 |
+| [analysis/_selected-template.md](analysis/_selected-template.md) | analysis | 0 | 0 |
 | [analysis/_template.md](analysis/_template.md) | analysis | 0 | 2 |
 | [doctrine/amateur-constraints.md](doctrine/amateur-constraints.md) | doctrine | 3 | 3 |
 | [doctrine/futsal/principles-that-travel.md](doctrine/futsal/principles-that-travel.md) | doctrine | 5 | 4 |

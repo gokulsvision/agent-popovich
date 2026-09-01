@@ -81,6 +81,12 @@ def slug_of(rel):
     return os.path.splitext(os.path.basename(rel))[0]
 
 
+def is_template(rel):
+    """Files starting with _ are skeletons to copy, not nodes in the graph.
+    They are exempt from link rules."""
+    return os.path.basename(rel).startswith("_")
+
+
 def is_stub(text):
     return "Canonical page:" in text.split("## Links out")[0]
 
@@ -149,7 +155,7 @@ def write_backlinks(docs, inb):
     """Replace each page's `## Linked from` body with the computed graph."""
     changed = []
     for rel, txt in sorted(docs.items()):
-        if rel == "INDEX.md" or slug_of(rel) == "_template":
+        if rel == "INDEX.md" or is_template(rel):
             continue
         if "## Linked from" not in txt:
             continue
@@ -197,7 +203,7 @@ def write_index(docs, outmap, inb):
         ))
 
     orphans = [r for r, _t, i, _o in rows
-               if i == 0 and slug_of(r) != "_template" and not r.endswith("INDEX.md")]
+               if i == 0 and not is_template(r) and not r.endswith("INDEX.md")]
 
     lines = [
         "# Wiki index",
@@ -273,7 +279,7 @@ def check(docs, resolve, ambiguous, outmap, broken, referenced):
         )
 
     for rel, txt in sorted(docs.items()):
-        if rel == "INDEX.md" or slug_of(rel) == "_template":
+        if rel == "INDEX.md" or is_template(rel):
             continue
         if "## Links out" not in txt:
             errs.append(f"{rel}: missing '## Links out'")
@@ -282,7 +288,7 @@ def check(docs, resolve, ambiguous, outmap, broken, referenced):
 
     inb = inbound_map(outmap)
     for rel in sorted(docs):
-        if slug_of(rel) == "_template" or rel.endswith("INDEX.md"):
+        if is_template(rel) or rel.endswith("INDEX.md"):
             continue
         # Stubs are supposed to be orphans. They exist so a reader who lands on
         # the wrong path gets redirected. Links resolve to the canonical page.
