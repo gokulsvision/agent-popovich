@@ -18,6 +18,8 @@ MIT licensed. Fork it, point it at your own team, improve the detectors.
 
 The agent does not spawn other coaches. Workflows in `workflows/` are how this one agent writes to `wiki/`.
 
+`wiki/knowledge/` is how the game is played. Doctrine is what this team does. The agent loads one knowledge page when it needs to name a pattern, then closes it. It does not dump the library into a coaching answer.
+
 ## What it does not do
 
 - Computer vision as a product. This is ffmpeg, still frames, and a model that reads images. The detectors find scene cuts and loud audio. **They cannot see a turnover** — no filter knows who has the ball, so the model still reads the frames and reports what it thinks it missed.

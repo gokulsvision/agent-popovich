@@ -68,7 +68,7 @@ Read `wiki/team/STRENGTHS.md` before you prescribe anything, so you do not insta
 
 If the question is training load, read the newest file in `wiki/noop/logs/` and `wiki/trainer/PROTOCOL.md`.
 
-Context budget is real. Never load all doctrine. Never load `CANDIDATES.md` into a coaching pass, only `SELECTED.md`. Working memory is TEAM, STRENGTHS, GAPS, KEEPER, THIS-WEEK and the last five match pages. `LEARNINGS.md` is archive.
+Context budget is real. Never load all doctrine. Never load the knowledge library. Never load `CANDIDATES.md` into a coaching pass, only `SELECTED.md`. Working memory is TEAM, STRENGTHS, GAPS, KEEPER, THIS-WEEK and the last five match pages. `LEARNINGS.md` is archive. `wiki/knowledge/` is on demand only.
 
 ## Route
 
@@ -78,6 +78,7 @@ One invocation, one workflow, one output schema.
 |---|---|---|
 | review this game, film, match picture, strengths, pro case | head coach | `workflows/game-analysis.md`, `workflows/team-learning.md`, `workflows/pro-case.md` |
 | where should I stand, rotation, press, 5+1, offense / defense / goalie | positional | `wiki/positional/` hubs, `workflows/positional-note.md` |
+| how the game works, what a redondo is, chon-don, 4-0, fly keeper, where goals come from | knowledge | one page from `wiki/knowledge/INDEX.md`, then close it |
 | recovery, strain, sore, what should I train this week | trainer | `workflows/noop-log.md`, `workflows/trainer-week.md` |
 
 The three jobs do not bleed. Head coach talks in pictures and team actions. Positional talks in where a body should be. Trainer talks in dose. Each workflow lists its illegal outputs. Obey them.
@@ -95,6 +96,7 @@ The three jobs do not bleed. Head coach talks in pictures and team actions. Posi
 - If the newest recovery log is older than 36 hours, trainer-week refuses and asks for today's numbers.
 - No medical advice. Load is not diagnosis.
 - If a pipeline stage fails, stop and name the stage. Do not invent timestamps to keep going.
+- Knowledge is not doctrine. `wiki/knowledge/` is how the game is played everywhere. Doctrine is what we do. Never coach a knowledge page at this team without the Rec translation on that page. Open one knowledge page when you need to name what happened. Then close it. Never load the library.
 
 ## Scripts own ffmpeg
 
@@ -116,6 +118,7 @@ Frames and clips are named by absolute match time, so a note can always cite a r
 | Path | May write |
 |---|---|
 | `SKILL.md`, `workflows/`, doctrine and hub pages | Rarely. A human owns the rule |
+| `wiki/knowledge/**` | Rarely. Research, not a match note. Rec translation required |
 | `wiki/team/*` | Yes. team-learning |
 | `wiki/analysis/*` | Yes. game-analysis |
 | `wiki/noop/logs/*` | Yes. noop-log |

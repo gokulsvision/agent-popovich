@@ -48,6 +48,7 @@ DIR_ALIAS = {
     "pro/INDEX.md": "pro",
     "trainer/INDEX.md": "trainer",
     "noop/INDEX.md": "noop",
+    "knowledge/INDEX.md": "knowledge",
     "INDEX.md": "wiki",
 }
 
@@ -189,7 +190,7 @@ def page_type(rel):
     top = rel.split(os.sep)[0]
     known = {
         "doctrine", "team", "analysis", "noop",
-        "trainer", "positional", "head-coach", "pro",
+        "trainer", "positional", "head-coach", "pro", "knowledge",
     }
     return top if top in known else "root"
 
@@ -255,8 +256,9 @@ def write_index(docs, outmap, inb):
         "## Working memory",
         "",
         "TEAM, STRENGTHS, GAPS, KEEPER, THIS-WEEK, and the last 5 match pages.",
-        "LEARNINGS is archive. Never load all doctrine. Never load CANDIDATES into",
-        "a coaching pass.",
+        "LEARNINGS is archive. Never load all doctrine. Never load the knowledge",
+        "library. Open one knowledge page when you need to name a pattern. Never",
+        "load CANDIDATES into a coaching pass.",
         "",
     ]
 

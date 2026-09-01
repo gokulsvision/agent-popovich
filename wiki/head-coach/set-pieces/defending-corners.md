@@ -40,6 +40,7 @@ _None yet._
 
 - [attacking-corners](../../head-coach/set-pieces/attacking-corners.md) (`attacking-corners`)
 - [communication](../../positional/goalie/communication.md) (`communication`)
+- [corners](../../knowledge/set-plays/corners.md) (`corners`)
 - [GAPS](../../team/GAPS.md) (`GAPS`)
 - [marking](../../positional/defense/marking.md) (`marking`)
 - [rest-defence](../../doctrine/rest-defence.md) (`rest-defence`)

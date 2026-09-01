@@ -19,6 +19,7 @@ _None yet._
 - [[taking-space]]
 - [[pivot-and-support]]
 - [[principles-that-travel]]
+- [[attacking-rotations]] — named patterns if you need a name
 
 ## Linked from
 

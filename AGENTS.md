@@ -82,6 +82,8 @@ One canonical page per idea. Every other path with that name is a stub pointing 
 
 A new doctrine page must already have two inbound links. Otherwise it is a bullet on a hub or a line in `LEARNINGS.md`.
 
+`wiki/knowledge/` is how the game is played, not what we do. Load one page when you need to name a pattern. Never load the library. Never coach it at this team without that page's Rec translation.
+
 Doctrine changes rarely. Memory pages change after every match, every recovery dump, every film session.
 
 ## Jobs

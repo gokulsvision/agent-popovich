@@ -43,5 +43,6 @@ Rec back lines will not support a middle-third sweep as a default.
 - [defending-corners](../../head-coach/set-pieces/defending-corners.md) (`defending-corners`)
 - [FROM-GAMEPLAY](../../trainer/FROM-GAMEPLAY.md) (`FROM-GAMEPLAY`)
 - [GAPS](../../team/GAPS.md) (`GAPS`)
+- [goalkeeper-fundamentals](../../knowledge/goalkeeper/goalkeeper-fundamentals.md) (`goalkeeper-fundamentals`)
 - [KEEPER](../../team/KEEPER.md) (`KEEPER`)
 - [neuer-2014-algeria](../../pro/goalkeepers/neuer-2014-algeria.md) (`neuer-2014-algeria`)

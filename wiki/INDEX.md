@@ -28,54 +28,74 @@ One page per idea. Every other path with the same name is a stub that points her
 | [analysis/_part-template.md](analysis/_part-template.md) | analysis | 0 | 0 |
 | [analysis/_selected-template.md](analysis/_selected-template.md) | analysis | 0 | 0 |
 | [analysis/_template.md](analysis/_template.md) | analysis | 0 | 0 |
-| [doctrine/amateur-constraints.md](doctrine/amateur-constraints.md) | doctrine | 3 | 3 |
-| [doctrine/futsal/principles-that-travel.md](doctrine/futsal/principles-that-travel.md) | doctrine | 5 | 4 |
-| [doctrine/rest-defence.md](doctrine/rest-defence.md) | doctrine | 10 | 4 |
-| [doctrine/taking-space.md](doctrine/taking-space.md) | doctrine | 14 | 4 |
+| [doctrine/amateur-constraints.md](doctrine/amateur-constraints.md) | doctrine | 12 | 3 |
+| [doctrine/futsal/principles-that-travel.md](doctrine/futsal/principles-that-travel.md) | doctrine | 10 | 6 |
+| [doctrine/rest-defence.md](doctrine/rest-defence.md) | doctrine | 15 | 4 |
+| [doctrine/taking-space.md](doctrine/taking-space.md) | doctrine | 19 | 4 |
 | [head-coach/INDEX.md](head-coach/INDEX.md) | head-coach | 0 | 2 |
-| [head-coach/in-possession.md](head-coach/in-possession.md) | head-coach | 4 | 4 |
-| [head-coach/out-of-possession.md](head-coach/out-of-possession.md) | head-coach | 4 | 4 |
+| [head-coach/in-possession.md](head-coach/in-possession.md) | head-coach | 5 | 4 |
+| [head-coach/out-of-possession.md](head-coach/out-of-possession.md) | head-coach | 5 | 4 |
 | [head-coach/rest-defence.md](head-coach/rest-defence.md) | head-coach | 0 | 1 |
-| [head-coach/set-pieces/attacking-corners.md](head-coach/set-pieces/attacking-corners.md) | head-coach | 5 | 4 |
-| [head-coach/set-pieces/defending-corners.md](head-coach/set-pieces/defending-corners.md) | head-coach | 5 | 4 |
-| [head-coach/set-pieces/restarts.md](head-coach/set-pieces/restarts.md) | head-coach | 1 | 3 |
+| [head-coach/set-pieces/attacking-corners.md](head-coach/set-pieces/attacking-corners.md) | head-coach | 6 | 4 |
+| [head-coach/set-pieces/defending-corners.md](head-coach/set-pieces/defending-corners.md) | head-coach | 6 | 4 |
+| [head-coach/set-pieces/restarts.md](head-coach/set-pieces/restarts.md) | head-coach | 3 | 3 |
 | [head-coach/taking-space.md](head-coach/taking-space.md) | head-coach | 0 | 1 |
-| [head-coach/transitions.md](head-coach/transitions.md) | head-coach | 4 | 4 |
+| [head-coach/transitions.md](head-coach/transitions.md) | head-coach | 5 | 4 |
+| [knowledge/INDEX.md](knowledge/INDEX.md) | knowledge | 0 | 21 |
+| [knowledge/attack/attacking-principles.md](knowledge/attack/attacking-principles.md) | knowledge | 8 | 7 |
+| [knowledge/attack/attacking-rotations.md](knowledge/attack/attacking-rotations.md) | knowledge | 7 | 8 |
+| [knowledge/attack/attacking-transitions.md](knowledge/attack/attacking-transitions.md) | knowledge | 3 | 6 |
+| [knowledge/attack/formations.md](knowledge/attack/formations.md) | knowledge | 4 | 6 |
+| [knowledge/attack/pivot-play.md](knowledge/attack/pivot-play.md) | knowledge | 6 | 7 |
+| [knowledge/attack/two-player-combinations.md](knowledge/attack/two-player-combinations.md) | knowledge | 6 | 6 |
+| [knowledge/defence/defending-rotations.md](knowledge/defence/defending-rotations.md) | knowledge | 6 | 8 |
+| [knowledge/defence/defensive-pairs.md](knowledge/defence/defensive-pairs.md) | knowledge | 4 | 6 |
+| [knowledge/defence/defensive-systems.md](knowledge/defence/defensive-systems.md) | knowledge | 6 | 6 |
+| [knowledge/defence/press-lines.md](knowledge/defence/press-lines.md) | knowledge | 6 | 6 |
+| [knowledge/goalkeeper/blocking-technique.md](knowledge/goalkeeper/blocking-technique.md) | knowledge | 5 | 6 |
+| [knowledge/goalkeeper/fly-goalkeeper.md](knowledge/goalkeeper/fly-goalkeeper.md) | knowledge | 5 | 6 |
+| [knowledge/goalkeeper/goalkeeper-distribution.md](knowledge/goalkeeper/goalkeeper-distribution.md) | knowledge | 4 | 6 |
+| [knowledge/goalkeeper/goalkeeper-fundamentals.md](knowledge/goalkeeper/goalkeeper-fundamentals.md) | knowledge | 3 | 8 |
+| [knowledge/physical/analysis-metrics.md](knowledge/physical/analysis-metrics.md) | knowledge | 4 | 7 |
+| [knowledge/physical/match-demands.md](knowledge/physical/match-demands.md) | knowledge | 3 | 6 |
+| [knowledge/set-plays/corners.md](knowledge/set-plays/corners.md) | knowledge | 4 | 6 |
+| [knowledge/set-plays/kick-ins.md](knowledge/set-plays/kick-ins.md) | knowledge | 5 | 6 |
+| [knowledge/set-plays/laws-that-shape-play.md](knowledge/set-plays/laws-that-shape-play.md) | knowledge | 5 | 6 |
 | [noop/INDEX.md](noop/INDEX.md) | noop | 2 | 2 |
 | [noop/PROTOCOL.md](noop/PROTOCOL.md) | noop | 0 | 1 |
 | [positional/INDEX.md](positional/INDEX.md) | positional | 0 | 2 |
-| [positional/defense.md](positional/defense.md) | positional | 1 | 3 |
-| [positional/defense/marking.md](positional/defense/marking.md) | positional | 2 | 3 |
-| [positional/defense/press-or-drop.md](positional/defense/press-or-drop.md) | positional | 2 | 3 |
+| [positional/defense.md](positional/defense.md) | positional | 1 | 5 |
+| [positional/defense/marking.md](positional/defense/marking.md) | positional | 5 | 3 |
+| [positional/defense/press-or-drop.md](positional/defense/press-or-drop.md) | positional | 5 | 3 |
 | [positional/defense/rest-defence.md](positional/defense/rest-defence.md) | positional | 0 | 2 |
-| [positional/goalie.md](positional/goalie.md) | positional | 1 | 2 |
-| [positional/goalie/angles-and-set.md](positional/goalie/angles-and-set.md) | positional | 3 | 3 |
-| [positional/goalie/come-off-the-line.md](positional/goalie/come-off-the-line.md) | positional | 9 | 5 |
-| [positional/goalie/communication.md](positional/goalie/communication.md) | positional | 2 | 3 |
-| [positional/goalie/distribution.md](positional/goalie/distribution.md) | positional | 4 | 3 |
-| [positional/goalie/starting-position.md](positional/goalie/starting-position.md) | positional | 8 | 5 |
-| [positional/offense.md](positional/offense.md) | positional | 1 | 4 |
+| [positional/goalie.md](positional/goalie.md) | positional | 2 | 5 |
+| [positional/goalie/angles-and-set.md](positional/goalie/angles-and-set.md) | positional | 5 | 3 |
+| [positional/goalie/come-off-the-line.md](positional/goalie/come-off-the-line.md) | positional | 13 | 5 |
+| [positional/goalie/communication.md](positional/goalie/communication.md) | positional | 3 | 3 |
+| [positional/goalie/distribution.md](positional/goalie/distribution.md) | positional | 5 | 3 |
+| [positional/goalie/starting-position.md](positional/goalie/starting-position.md) | positional | 9 | 5 |
+| [positional/offense.md](positional/offense.md) | positional | 2 | 6 |
 | [positional/offense/finishing.md](positional/offense/finishing.md) | positional | 4 | 3 |
 | [positional/offense/pivot-and-support.md](positional/offense/pivot-and-support.md) | positional | 2 | 3 |
-| [positional/offense/rotations.md](positional/offense/rotations.md) | positional | 6 | 3 |
+| [positional/offense/rotations.md](positional/offense/rotations.md) | positional | 6 | 4 |
 | [positional/offense/taking-space.md](positional/offense/taking-space.md) | positional | 0 | 3 |
 | [pro/INDEX.md](pro/INDEX.md) | pro | 0 | 4 |
 | [pro/_template.md](pro/_template.md) | pro | 0 | 0 |
 | [pro/goalkeepers/neuer-2014-algeria.md](pro/goalkeepers/neuer-2014-algeria.md) | pro | 2 | 2 |
 | [pro/set-pieces/arsenal-jover-near-post.md](pro/set-pieces/arsenal-jover-near-post.md) | pro | 1 | 3 |
-| [team/GAPS.md](team/GAPS.md) | team | 7 | 9 |
-| [team/KEEPER.md](team/KEEPER.md) | team | 6 | 4 |
-| [team/LEARNINGS.md](team/LEARNINGS.md) | team | 2 | 2 |
+| [team/GAPS.md](team/GAPS.md) | team | 9 | 9 |
+| [team/KEEPER.md](team/KEEPER.md) | team | 7 | 4 |
+| [team/LEARNINGS.md](team/LEARNINGS.md) | team | 3 | 2 |
 | [team/PLAYERS.md](team/PLAYERS.md) | team | 1 | 3 |
 | [team/STRENGTHS.md](team/STRENGTHS.md) | team | 5 | 3 |
-| [team/TEAM.md](team/TEAM.md) | team | 4 | 6 |
+| [team/TEAM.md](team/TEAM.md) | team | 5 | 6 |
 | [team/THIS-WEEK.md](team/THIS-WEEK.md) | team | 6 | 4 |
-| [trainer/FROM-GAMEPLAY.md](trainer/FROM-GAMEPLAY.md) | trainer | 8 | 5 |
+| [trainer/FROM-GAMEPLAY.md](trainer/FROM-GAMEPLAY.md) | trainer | 11 | 6 |
 | [trainer/INDEX.md](trainer/INDEX.md) | trainer | 0 | 2 |
 | [trainer/PROFILE.md](trainer/PROFILE.md) | trainer | 2 | 3 |
-| [trainer/PROTOCOL.md](trainer/PROTOCOL.md) | trainer | 7 | 3 |
-| [trainer/menus/keeper-physical.md](trainer/menus/keeper-physical.md) | trainer | 1 | 3 |
-| [trainer/menus/mobility-recovery.md](trainer/menus/mobility-recovery.md) | trainer | 1 | 2 |
+| [trainer/PROTOCOL.md](trainer/PROTOCOL.md) | trainer | 9 | 3 |
+| [trainer/menus/keeper-physical.md](trainer/menus/keeper-physical.md) | trainer | 3 | 3 |
+| [trainer/menus/mobility-recovery.md](trainer/menus/mobility-recovery.md) | trainer | 2 | 2 |
 
 ## Orphans
 
@@ -92,5 +112,6 @@ not a page.
 ## Working memory
 
 TEAM, STRENGTHS, GAPS, KEEPER, THIS-WEEK, and the last 5 match pages.
-LEARNINGS is archive. Never load all doctrine. Never load CANDIDATES into
-a coaching pass.
+LEARNINGS is archive. Never load all doctrine. Never load the knowledge
+library. Open one knowledge page when you need to name a pattern. Never
+load CANDIDATES into a coaching pass.

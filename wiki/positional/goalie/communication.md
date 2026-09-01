@@ -32,3 +32,4 @@ _None yet._
 
 - [come-off-the-line](../../positional/goalie/come-off-the-line.md) (`come-off-the-line`)
 - [defending-corners](../../head-coach/set-pieces/defending-corners.md) (`defending-corners`)
+- [defensive-pairs](../../knowledge/defence/defensive-pairs.md) (`defensive-pairs`)

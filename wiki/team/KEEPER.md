@@ -32,6 +32,7 @@ Fill these from match pages. Do not invent a scouting report.
 
 - [GAPS](../team/GAPS.md) (`GAPS`)
 - [goalie](../positional/goalie.md) (`goalie`)
+- [goalkeeper-fundamentals](../knowledge/goalkeeper/goalkeeper-fundamentals.md) (`goalkeeper-fundamentals`)
 - [PROFILE](../trainer/PROFILE.md) (`PROFILE`)
 - [starting-position](../positional/goalie/starting-position.md) (`starting-position`)
 - [TEAM](../team/TEAM.md) (`TEAM`)

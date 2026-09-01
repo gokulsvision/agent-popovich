@@ -37,8 +37,13 @@ _None yet. Queue `workflows/pro-case.md`._
 
 - [arsenal-jover-near-post](../pro/set-pieces/arsenal-jover-near-post.md) (`arsenal-jover-near-post`)
 - [attacking-corners](../head-coach/set-pieces/attacking-corners.md) (`attacking-corners`)
+- [attacking-transitions](../knowledge/attack/attacking-transitions.md) (`attacking-transitions`)
+- [corners](../knowledge/set-plays/corners.md) (`corners`)
 - [defending-corners](../head-coach/set-pieces/defending-corners.md) (`defending-corners`)
+- [defending-rotations](../knowledge/defence/defending-rotations.md) (`defending-rotations`)
 - [defense](../positional/defense.md) (`defense`)
+- [fly-goalkeeper](../knowledge/goalkeeper/fly-goalkeeper.md) (`fly-goalkeeper`)
+- [kick-ins](../knowledge/set-plays/kick-ins.md) (`kick-ins`)
 - [out-of-possession](../head-coach/out-of-possession.md) (`out-of-possession`)
 - [press-or-drop](../positional/defense/press-or-drop.md) (`press-or-drop`)
 - [rest-defence](../head-coach/rest-defence.md) (`rest-defence`)

@@ -36,5 +36,6 @@ Do not install a system that fights who we are. See [[amateur-constraints]] (`am
 
 - [amateur-constraints](../doctrine/amateur-constraints.md) (`amateur-constraints`)
 - [head-coach](../head-coach/INDEX.md) (`head-coach`)
+- [laws-that-shape-play](../knowledge/set-plays/laws-that-shape-play.md) (`laws-that-shape-play`)
 - [marking](../positional/defense/marking.md) (`marking`)
 - [PLAYERS](../team/PLAYERS.md) (`PLAYERS`)
