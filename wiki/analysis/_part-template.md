@@ -18,7 +18,11 @@ Every goal, no cap. Unreadable still gets listed.
 ```
 - MM:SS  goal_for | goal_against
   what happened:
-  unit: O / D / GK
+  unit at fault:
+  unit that did the job:
+  preventable: yes | no | unreadable
+  how:
+  picture should have been:
   decision:
   verdict: (score the decision, not the scoreboard)
   cue:

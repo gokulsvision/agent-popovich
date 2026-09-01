@@ -123,20 +123,29 @@ Cap the human-facing page at every goal plus five coached clips. Rec players wil
 
 Score the decision separately from the goal.
 
-Each selected moment:
+Each selected moment, all of these, or the note is unfinished:
 
 - timestamp
-- unit (O / D / GK) via `workflows/positional-note.md`
+- unit at fault and unit that did the job, via `workflows/positional-note.md`
 - what happened
-- what the picture should have been
-- cue
+- what the picture should have been (who stands where)
+- preventable: yes / no / unreadable, and how
+- cue for the unit at fault
 - knowledge or physical (if physical, point at `wiki/trainer/FROM-GAMEPLAY.md` and stop; do not write the week)
 
-Keeper rubric, every clip: starting height against ball location, come or stay, set before the shot, call made (`call: unknown` if audio is dead).
+Keeper rubric, every clip: starting height against ball location, come or stay, set before the shot, call made (`call: unknown` if audio is dead). If the keeper was fine, write fine.
 
 Team rubric, every clip: did we take space that was free, did we take space that was not, did each body arrive at its corner job, how many were behind the ball when we lost it.
 
+The chat reply is this coaching. Do not lead with detector counts.
+
+By unit on the match page, always: goalkeeper, last man, highest player, the rest. Not fourteen named reports. Named player only if TEAM.md has colours and the shirt is readable.
+
+How they played, then what we do against that. Rec jobs. Not a new formation.
+
 Attach one pro case as the picture. If none exists for that mistake, queue `workflows/pro-case.md` rather than inventing a lecture.
+
+The week stays one cue. The match reply still names the units.
 
 Then:
 
