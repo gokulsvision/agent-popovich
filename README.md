@@ -2,7 +2,7 @@
 
 This is the coach a rec team could not hire. It is not a finished product.
 
-One Hermes agent. Three jobs. A linked wiki it reads and writes. Futsal is the game. Soccer is the season. Recovery is pasted, never scraped from an API. Match video never enters git.
+One Hermes agent. Three jobs. A linked wiki it reads and writes. Futsal is the game. Soccer is the season. Recovery is pasted, or taken from noop or another exposed MCP. Match videos, player, and game specifics never enters git.
 
 Not affiliated with Gregg Popovich, the San Antonio Spurs, or the NBA.
 
