@@ -1,0 +1,23 @@
+.DS_Store
+.env
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+
+# Match video never enters git
+/media/matches/*
+!/media/matches/.gitkeep
+
+# Extracted stills are local
+wiki/analysis/moments/**/frames/
+
+# Real roster, if anyone on the team did not agree to be named
+wiki/team/TEAM.local.md
+wiki/team/PLAYERS.local.md
+wiki/team/KEEPER.local.md
+wiki/trainer/PROFILE.local.md
+
+# NOOP dumps
+wiki/noop/exports/
