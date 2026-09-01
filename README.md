@@ -79,6 +79,15 @@ The only thing the trainer needs is recovery, strain, sleep and hours to the nex
 
 `wiki/team/TEAM.md`, `PLAYERS.md`, `KEEPER.md`, and `wiki/trainer/PROFILE.md` in git are templates. Real names go in the gitignored `*.local.md` files if anyone on the team did not agree to be named.
 
+## Verify it works
+
+```bash
+./scripts/doctor.sh          # dependencies, layout, wiki graph
+./scripts/smoke-test.sh      # synthetic match, asserts timestamps are correct
+```
+
+The smoke test builds a video with scene cuts at known times and checks that a still named `t45s` is genuinely from 0:45. If timestamps drift, every coaching note becomes fiction, so this is the test that matters.
+
 ## Help make it better
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). The useful work is better turnover detection, a second-camera keeper cut, more pro cases with public timestamps, and generated backlinks. Personality, wiki shape, and the three-job split are already decided.

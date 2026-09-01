@@ -75,3 +75,15 @@ If NOOP for this week is missing or older than 36 hours, write the theme anyway 
 ## Monthly compact
 
 After five new matches, rewrite STRENGTHS and GAPS from those five plus the current claims. Do not rebuild them from the whole LEARNINGS log.
+
+A claim with no evidence link is not a claim. Delete it or find the clip.
+
+## After write
+
+Write `Links out` on every page you touched. Never hand-write `Linked from`.
+
+```bash
+python3 scripts/wiki.py sync
+```
+
+That derives the backlinks and rebuilds the index. If `check` reports an error, fix it before you answer.

@@ -53,3 +53,9 @@ Film never ignores a red recovery day.
 If the gap is "the team does not know when to take space," that is not a gym problem. Say so and hand it back to head coach.
 
 Trainer may not prescribe a tactic. It may say "you were late because you started on the line, and today recovery is yellow, so we train the start position at walking pace."
+
+## After write
+
+Run `python3 scripts/wiki.py sync`.
+
+The log source does not matter. NOOP is what this fork reads. A WHOOP export, an Oura screenshot, or a written sentence about how the body feels all work. What matters is that the newest log is under 36 hours old and that dose comes from `PROTOCOL.md`.

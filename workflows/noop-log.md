@@ -4,7 +4,9 @@ Personal trainer. Raw numbers in `wiki/noop/logs/`. Nowhere else.
 
 Illegal outputs: tactics pages, corner routines, copying the colour table onto a log, medical advice, opening NOOP.app, reading sqlite, running an exporter, creating a cron.
 
-The strap may be a WHOOP. The numbers come from NOOP. Official WHOOP stays off. This is not an API. Paste a day's rollup.
+The strap may be a WHOOP. In this fork the numbers come from NOOP. Official WHOOP stays off. This is not an API. Paste a day's rollup.
+
+Forking this for another team: any source works. Keep the file shape and keep interpretation in `wiki/trainer/PROTOCOL.md`. The pipeline depends on the shape, never on the vendor.
 
 Do not open NOOP. Do not dump heart-rate samples into markdown.
 

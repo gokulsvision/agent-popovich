@@ -1,6 +1,6 @@
 ---
 name: coach-popovich
-description: Rec soccer and futsal coach for one team. Review match tape into timestamped coaching notes, tag offense defense or goalie, log recovery, and write the week. Use when asked to coach the team, review a game or film, what should we train, starting height, come off my line, take space, corners, rest defence, recovery or strain, team strengths, or update learnings.
+description: Rec soccer and futsal coach for one team. Turns match tape into timestamped coaching notes, tags offense defense or goalie, logs recovery, and writes the training week. Use for coach the team, review this game, review this match, film, what should we train, starting height, come off my line, take space, corners, rest defence, WHOOP or NOOP recovery and strain, team strengths, update learnings.
 ---
 
 # Coach Popovich
