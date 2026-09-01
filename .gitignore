@@ -1,17 +1,22 @@
 .DS_Store
 .env
+
+# Match video never enters git
 *.mp4
 *.mov
 *.m4v
 *.avi
 *.mkv
-
-# Match video never enters git
 /media/matches/*
 !/media/matches/.gitkeep
 
-# Extracted stills are local
+# Generated analysis artifacts. Part notes and match pages ARE committed.
+# The stills, contact sheets and detector output are local and regenerable.
 wiki/analysis/moments/**/frames/
+wiki/analysis/moments/**/sheets/
+wiki/analysis/moments/**/*.tsv
+wiki/analysis/moments/**/*.log
+wiki/analysis/moments/**/*.raw
 
 # Real roster, if anyone on the team did not agree to be named
 wiki/team/TEAM.local.md
@@ -19,5 +24,8 @@ wiki/team/PLAYERS.local.md
 wiki/team/KEEPER.local.md
 wiki/trainer/PROFILE.local.md
 
-# NOOP dumps
+# Recovery exports
 wiki/noop/exports/
+
+__pycache__/
+*.pyc
